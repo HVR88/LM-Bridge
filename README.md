@@ -8,9 +8,15 @@
 
 This is a stand-alone _LM Bridge_ release for existing MusicBrainz mirror installations.
 
+**LM Bridge Features**
+
+- Direct API access to local MusicBrainz mirror server from Lidarr
+- Caching database for Lidarr queries
+- Media Format filtering - remove vinyl or other issues from all releases
+
 > [!IMPORTANT]
 >
-> If you don't have a MusicBrainz mirror yet, use our [**MBNMS PLUS**](https://github.com/HVR88/MBMS_PLUS). It includes _LM Bridge_ and a fully automated MusicBrainz installation.
+> If you don't have a MusicBrainz mirror yet, use [**MBMS PLUS**](https://github.com/HVR88/MBMS_PLUS), our automated MusicBrainz installation with LM Bridge built-in.
 
 ## Quick start
 
